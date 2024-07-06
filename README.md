@@ -1,6 +1,6 @@
 # AI-Customer-Service
 <p align="center">
-  <img src="https://github.com/AIjiaKeFu/AI-Customer-Service/assets/169279325/36254b61-c8d4-473f-9504-18398bb92b13" alt="输入图片说明" />
+  <img src="https://github.com/AIjiaKeFu/AI-Customer-Service/assets/169279325/8e123ad3-52d4-4fae-8f10-5d40c4c62620" alt="输入图片说明" />
 </p>
  
 ## 介绍
