@@ -50,16 +50,16 @@ For
 ## 项目计划 RoadMap
 
 #### 社交平台：
-
+<div style="display: flex; justify-content: center;">
 | 平台 | 朋友私聊 | 陌生人 | 群聊 |
 |   :---:    |   :----:   |  :---: |  :---: |
 | 企微 |  :white_check_mark:  |  /  | @后回复 |
 | 微信   | :white_check_mark: |  /  | @后回复 |
 | 小红书私信 | :white_check_mark: |  /  | @后回复 |
 | 抖音私信 | :white_check_mark: |  :white_check_mark:  | @后回复 |
-
+</div>
 #### 电商平台：
-
+<div style="display: flex; justify-content: center;">
 | 平台 | 基础聊天功能 |
 |   :---:    |   :----:   |
 | 千牛| :white_check_mark: |
@@ -68,7 +68,7 @@ For
 | 抖店 | :white_check_mark: |
 | 千帆 | :white_check_mark: |
 | 美团开店宝 | :white_check_mark: |
-
+</div>
 #### 注：可以接定制开发其他的平台和一些其他常用的功能
 
 
