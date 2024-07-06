@@ -1,6 +1,6 @@
 # AI-Customer-Service
 <p align="center">
-  <img src="https://github.com/AIjiaKeFu/AI-Customer-Service/assets/169279325/8e123ad3-52d4-4fae-8f10-5d40c4c62620" alt="输入图片说明" />
+  <img src="https://github.com/AIjiaKeFu/AI-Customer-Service/assets/169279325/0107a20c-f4e3-491e-8c78-78244bb7beef" alt="输入图片说明" />
 </p>
  
 ## 介绍
@@ -40,7 +40,7 @@ https://www.bilibili.com/video/BV1Fd3CeyEJj/?vd_source=30cd00a13a8734a6578068a03
 如果有问题需要反馈，或者对项目有什么特别希望支持的，可以添加小助手企业微信加入开源项目交流群：
 
 <p align="center">
-  <img src="!https://github.com/AIjiaKeFu/AI-Customer-Service/assets/169279325/dc35fc95-4afd-467a-b464-a8f2f7769c4d" alt="输入图片说明" />
+  <img src="https://github.com/AIjiaKeFu/AI-Customer-Service/assets/169279325/8e123ad3-52d4-4fae-8f10-5d40c4c62620" alt="输入图片说明" />
 </p>
 
 ## 下载地址
