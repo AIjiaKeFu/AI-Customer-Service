@@ -53,42 +53,12 @@ For
 
 <div align="center">
 
-<table style="table-layout: fixed; width: 100%; text-align: center;">
-  <thead>
-    <tr>
-      <th>平台</th>
-      <th>朋友私聊</th>
-      <th>陌生人</th>
-      <th>群聊</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>企微</td>
-      <td>:white_check_mark:</td>
-      <td>/</td>
-      <td>@后回复</td>
-    </tr>
-    <tr>
-      <td>微信</td>
-      <td>:white_check_mark:</td>
-      <td>/</td>
-      <td>@后回复</td>
-    </tr>
-    <tr>
-      <td>小红书</td>
-      <td>:white_check_mark:</td>
-      <td>/</td>
-      <td>@后回复</td>
-    </tr>
-    <tr>
-      <td>抖音</td>
-      <td>:white_check_mark:</td>
-      <td>:white_check_mark:</td>
-      <td>@后回复</td>
-    </tr>
-  </tbody>
-</table>
+  | 平台 | 朋友私聊 | 陌生人 | 群聊 |
+|   :---:    |   :----:   |  :---: |  :---: |
+| 企微 |  :white_check_mark:  |  /  | @后回复 |
+| 微信   | :white_check_mark: |  /  | @后回复 |
+| 小红书 | :white_check_mark: |  /  | @后回复 |
+| 抖音 | :white_check_mark: |  :white_check_mark:  | @后回复 |
 
 </div>
 
@@ -96,40 +66,14 @@ For
 
 <div align="center">
 
-<table style="table-layout: fixed; width: 100%; text-align: center;">
-  <thead>
-    <tr>
-      <th>平台</th>
-      <th>基础聊天功能</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>千牛</td>
-      <td>:white_check_mark:</td>
-    </tr>
-    <tr>
-      <td>京麦</td>
-      <td>:white_check_mark:</td>
-    </tr>
-    <tr>
-      <td>拼多多</td>
-      <td>:white_check_mark:</td>
-    </tr>
-    <tr>
-      <td>抖店</td>
-      <td>:white_check_mark:</td>
-    </tr>
-    <tr>
-      <td>千帆</td>
-      <td>:white_check_mark:</td>
-    </tr>
-    <tr>
-      <td>美团开店宝</td>
-      <td>:white_check_mark:</td>
-    </tr>
-  </tbody>
-</table>
+  | 平台 | 基础聊天功能 |
+|   :---:    |   :----:   |
+| 千牛| :white_check_mark: |
+| 京麦  | :white_check_mark: |
+| 拼多多 | :white_check_mark: |
+| 抖店 | :white_check_mark: |
+| 千帆 | :white_check_mark: |
+| 美团开店宝 | :white_check_mark: |
 
 </div>
 
