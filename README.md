@@ -57,8 +57,8 @@ For
 |   :---:    |   :----:   |  :---: |  :---: |
 | 企微 |  :white_check_mark:  |  /  | @后回复 |
 | 微信   | :white_check_mark: |  /  | @后回复 |
-| 小红书私信 | :white_check_mark: |  /  | @后回复 |
-| 抖音私信 | :white_check_mark: |  :white_check_mark:  | @后回复 |
+| 小红书 | :white_check_mark: |  /  | @后回复 |
+| 抖音 | :white_check_mark: |  :white_check_mark:  | @后回复 |
 
 </div>
 
