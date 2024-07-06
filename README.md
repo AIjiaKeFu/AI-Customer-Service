@@ -51,7 +51,7 @@ For
 
 #### 社交平台：
 
-<center>
+<p align="center">
 
   | 平台 | 朋友私聊 | 陌生人 | 群聊 |
 |   :---:    |   :----:   |  :---: |  :---: |
@@ -60,11 +60,11 @@ For
 | 小红书私信 | :white_check_mark: |  /  | @后回复 |
 | 抖音私信 | :white_check_mark: |  :white_check_mark:  | @后回复 |
 
-</center>
+</p>
 
 #### 电商平台：
 
-<center>
+<p align="center">
 
   | 平台 | 基础聊天功能 |
 |   :---:    |   :----:   |
@@ -75,7 +75,7 @@ For
 | 千帆 | :white_check_mark: |
 | 美团开店宝 | :white_check_mark: |
 
-</center>
+</p>
 
 #### 注：可以接定制开发其他的平台和一些其他常用的功能
 
