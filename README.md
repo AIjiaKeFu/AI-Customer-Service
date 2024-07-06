@@ -1,6 +1,6 @@
 # AI-Customer-Service
 <p align="center">
-  <img src="%E7%88%B1%E5%98%89%E5%AE%A2%E6%9C%8D%E4%B8%AD%E6%96%87logo%E5%86%85%E9%BB%84.png" alt="输入图片说明" />
+  <img src="" alt="输入图片说明" />
 </p>
  
 ## 介绍
@@ -40,7 +40,7 @@ https://www.bilibili.com/video/BV1Fd3CeyEJj/?vd_source=30cd00a13a8734a6578068a03
 如果有问题需要反馈，或者对项目有什么特别希望支持的，可以添加小助手企业微信加入开源项目交流群：
 
 <p align="center">
-  <img src="8a236cf5fffd40aafac924fb394cb08.png" alt="输入图片说明" />
+  <img src="" alt="输入图片说明" />
 </p>
 
 ## 下载地址
