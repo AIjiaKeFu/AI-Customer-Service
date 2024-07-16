@@ -23,15 +23,15 @@
 
 #### 企业微信
 
-https://www.bilibili.com/video/BV1hhgZePEuM/?vd_source=30cd00a13a8734a6578068a03396e26f
+https://www.bilibili.com/video/BV1hhgZePEuM/
     
 #### 企微提醒转人工
 
-https://www.bilibili.com/video/BV1wJ89eREQh/?vd_source=30cd00a13a8734a6578068a03396e26f
+https://www.bilibili.com/video/BV1wJ89eREQh/
 
 #### 抖音私信
 
-https://www.bilibili.com/video/BV1Fd3CeyEJj/?vd_source=30cd00a13a8734a6578068a03396e26f
+https://www.bilibili.com/video/BV1Fd3CeyEJj/
 
 ## 社区交流
 
