@@ -31,7 +31,7 @@ https://www.bilibili.com/video/BV1wJ89eREQh/
 
 #### 抖音私信
 
-https://www.bilibili.com/video/BV1Fd3CeyEJj/
+https://www.bilibili.com/video/BV1NnbMeYE9j/
 
 ## 社区交流
 
