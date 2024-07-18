@@ -43,7 +43,7 @@ https://www.bilibili.com/video/BV1Fd3CeyEJj/
 
 ## 下载地址
 
-链接: https://pan.baidu.com/s/1Q0nlyXdvw2HzTSjA2iPmMQ?pwd=1234
+链接: https://github.com/AIjiaKeFu/AI-Customer-Service/releases
 
 ## 项目计划 RoadMap
 
