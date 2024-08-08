@@ -33,6 +33,14 @@ https://www.bilibili.com/video/BV1wJ89eREQh/
 
 https://www.bilibili.com/video/BV1NnbMeYE9j/
 
+#### 抖店如何确定客人问的产品
+
+https://www.bilibili.com/video/BV1hSafe4EML/
+
+#### 抖店多开
+
+https://www.bilibili.com/video/BV1XvY4ezEzW/
+
 ## 社区交流
 
 如果有问题需要反馈，或者对项目有什么特别希望支持的，可以添加小助手企业微信加入开源项目交流群：
