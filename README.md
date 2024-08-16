@@ -8,6 +8,9 @@
 #### 注：本项目只是一个用于对接外部平台的客服工具，不提供任何平台的账号，需要自行准备。并且店铺产品的资料也需要自行准备，可以提供帮你训练AI的服务。
 
 ## 主要功能
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ca9f5c6-f92d-4f59-9661-e4d47ce1be17" alt="输入图片说明" />
+</p>
 
 1、多平台支持：当前支持企业微信、微信、抖店、千牛、拼多多、京麦、抖音私信、小红书私信、千帆等平台，未来将不断扩展和支持更多平台。
 
@@ -40,6 +43,24 @@ https://www.bilibili.com/video/BV1hSafe4EML/
 #### 抖店多开
 
 https://www.bilibili.com/video/BV1XvY4ezEzW/
+
+## 功能展示图
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ca9f5c6-f92d-4f59-9661-e4d47ce1be17" alt="输入图片说明" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce95a8b2-5694-497c-8588-e4d0542ae4ab" alt="输入图片说明" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aaa3b24c-daeb-41ac-8477-3b19a3d9b2e3" alt="输入图片说明" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a144edd-8f98-4341-aace-093378eaf45f" alt="输入图片说明" />
+</p>
 
 ## 社区交流
 
