@@ -48,6 +48,10 @@ https://www.bilibili.com/video/BV1XvY4ezEzW/
 
 https://www.bilibili.com/video/BV1EYpdeMEB4/
 
+#### 淘宝天猫千牛AI自动回复
+
+https://www.bilibili.com/video/BV1XxHje1EPK/
+
 ## 功能展示图
 
 <p align="center">
