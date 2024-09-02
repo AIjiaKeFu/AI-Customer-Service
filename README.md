@@ -54,18 +54,22 @@ https://www.bilibili.com/video/BV1XxHje1EPK/
 
 ## 功能展示图
 
+#### 主页图
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4ca9f5c6-f92d-4f59-9661-e4d47ce1be17" alt="输入图片说明" />
 </p>
 
+#### 抖店多开
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ce95a8b2-5694-497c-8588-e4d0542ae4ab" alt="输入图片说明" />
 </p>
 
+#### AI设置
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aaa3b24c-daeb-41ac-8477-3b19a3d9b2e3" alt="输入图片说明" />
 </p>
 
+#### 抖店多间店铺对应的AI设置
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3a144edd-8f98-4341-aace-093378eaf45f" alt="输入图片说明" />
 </p>
