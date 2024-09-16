@@ -56,6 +56,10 @@ https://www.bilibili.com/video/BV1XxHje1EPK/
 
 https://www.bilibili.com/video/BV1BcptexEkM/
 
+#### 拼多多
+
+https://www.bilibili.com/video/BV1Fp4deSE7h/
+
 ## 功能展示图
 
 #### 主页图
