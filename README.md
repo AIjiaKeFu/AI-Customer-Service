@@ -80,7 +80,7 @@ https://www.bilibili.com/video/BV1BcptexEkM/
 
 ## 社区交流
 
-如果有问题需要反馈，或者对项目表示支持的，可以添加小助手企业微信加入开源项目交流群：
+可以添加小助手的企微申请免费试用，如果有问题需要反馈，或者对项目表示支持的，可以添加小助手企业微信加入开源项目交流群：
 
 <p align="center">
   <img src="https://github.com/AIjiaKeFu/AI-Customer-Service/assets/169279325/8e123ad3-52d4-4fae-8f10-5d40c4c62620" alt="输入图片说明" />
