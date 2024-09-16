@@ -52,6 +52,10 @@ https://www.bilibili.com/video/BV1EYpdeMEB4/
 
 https://www.bilibili.com/video/BV1XxHje1EPK/
 
+#### 京东京麦咚咚
+
+https://www.bilibili.com/video/BV1BcptexEkM/
+
 ## 功能展示图
 
 #### 主页图
