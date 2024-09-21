@@ -9,7 +9,7 @@
 
 ## 主要功能
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4ca9f5c6-f92d-4f59-9661-e4d47ce1be17" alt="输入图片说明" />
+  <img src="https://github.com/user-attachments/assets/e093036e-5e39-43f1-bae2-2e99364c1c16" alt="输入图片说明" />
 </p>
 
 1、多平台支持：当前支持企业微信、微信、抖店、千牛、拼多多、京麦、抖音私信、小红书私信、千帆等平台，未来将不断扩展和支持更多平台。
@@ -64,22 +64,32 @@ https://www.bilibili.com/video/BV1Fp4deSE7h/
 
 #### 主页图
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4ca9f5c6-f92d-4f59-9661-e4d47ce1be17" alt="输入图片说明" />
+  <img src="https://github.com/user-attachments/assets/e093036e-5e39-43f1-bae2-2e99364c1c16" alt="输入图片说明" />
 </p>
 
 #### 抖店多开
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce95a8b2-5694-497c-8588-e4d0542ae4ab" alt="输入图片说明" />
+  <img src="https://github.com/user-attachments/assets/3f1c1879-cd3f-4697-b891-c04f14ad509c" alt="输入图片说明" />
 </p>
 
-#### AI设置
+#### 拼多多多开
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aaa3b24c-daeb-41ac-8477-3b19a3d9b2e3" alt="输入图片说明" />
+  <img src="https://github.com/user-attachments/assets/c02b0150-7707-4da3-8d0d-9e6ff4a38848" alt="输入图片说明" />
 </p>
 
-#### 抖店多间店铺对应的AI设置
+#### 京东多开
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3a144edd-8f98-4341-aace-093378eaf45f" alt="输入图片说明" />
+  <img src="https://github.com/user-attachments/assets/78effc27-11b8-43bf-9548-d2ab6bfb18e0" alt="输入图片说明" />
+</p>
+
+#### AI全局设置
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ddcb49f-e31e-42f4-9d50-e950e8ef298b" alt="输入图片说明" />
+</p>
+
+#### 多店铺对应的AI设置
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ae5998e-7b34-4f08-a4cb-4666aca721d3" alt="输入图片说明" />
 </p>
 
 ## 社区交流
