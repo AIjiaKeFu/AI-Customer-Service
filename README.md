@@ -27,8 +27,6 @@
 #### 企业微信
 
 https://www.bilibili.com/video/BV1hhgZePEuM/
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112676202090001&bvid=BV1hhgZePEuM&cid=500001595772108&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
     
 #### 企微提醒人工上线客服
 
