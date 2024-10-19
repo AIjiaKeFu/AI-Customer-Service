@@ -9,7 +9,7 @@
 
 ## 主要功能
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e093036e-5e39-43f1-bae2-2e99364c1c16" alt="输入图片说明" />
+  <img src="https://github.com/user-attachments/assets/5394d656-6d3d-45eb-9ef2-4f805bb059e0" alt="输入图片说明" />
 </p>
 
 1、多平台支持：当前支持企业微信、微信、抖店、千牛、拼多多、京麦、抖音私信、小红书私信、千帆等平台，未来将不断扩展和支持更多平台。
