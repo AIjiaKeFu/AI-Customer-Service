@@ -68,7 +68,7 @@ https://www.bilibili.com/video/BV1Tk2RYdEgn/
 
 #### 主页图
 <p align="center">
-  <img src="https://github.com/userattachments/assets/d15a6ced-1db2-44dd-9620-357b3ce2fc6d" alt="输入图片说明" />
+  <img src="https://github.com/user-attachments/assets/5394d656-6d3d-45eb-9ef2-4f805bb059e0" alt="输入图片说明" />
 </p>
 
 #### 抖店多开
