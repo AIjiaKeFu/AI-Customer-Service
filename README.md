@@ -60,11 +60,15 @@ https://www.bilibili.com/video/BV1BcptexEkM/
 
 https://www.bilibili.com/video/BV1Fp4deSE7h/
 
+#### 快手小店
+
+https://www.bilibili.com/video/BV1Tk2RYdEgn/
+
 ## 功能展示图
 
 #### 主页图
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e093036e-5e39-43f1-bae2-2e99364c1c16" alt="输入图片说明" />
+  <img src="https://github.com/userattachments/assets/d15a6ced-1db2-44dd-9620-357b3ce2fc6d" alt="输入图片说明" />
 </p>
 
 #### 抖店多开
@@ -80,6 +84,11 @@ https://www.bilibili.com/video/BV1Fp4deSE7h/
 #### 京东多开
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78effc27-11b8-43bf-9548-d2ab6bfb18e0" alt="输入图片说明" />
+</p>
+
+#### 快手小店多开
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c44b3290-58e7-4e27-85d7-b964da5a4b35" alt="输入图片说明" />
 </p>
 
 #### AI全局设置
