@@ -106,7 +106,7 @@ https://www.bilibili.com/video/BV1Tk2RYdEgn/
 可以添加小助手的企微申请免费试用，如果有问题需要反馈，或者对项目表示支持的，可以添加小助手企业微信加入开源项目交流群：
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/afb8b922-7b16-4a13-bf90-0a409128833b" alt="输入图片说明" />
+  <img src="https://github.com/user-attachments/assets/49e136be-46f4-490f-b70d-551071123cad" alt="输入图片说明" />
 </p>
 
 ## 下载地址
