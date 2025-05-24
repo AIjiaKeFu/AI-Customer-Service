@@ -91,15 +91,6 @@ https://www.bilibili.com/video/BV1Tk2RYdEgn/
   <img src="https://github.com/user-attachments/assets/c44b3290-58e7-4e27-85d7-b964da5a4b35" alt="输入图片说明" />
 </p>
 
-#### AI全局设置
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6ddcb49f-e31e-42f4-9d50-e950e8ef298b" alt="输入图片说明" />
-</p>
-
-#### 多店铺对应的AI设置
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8ae5998e-7b34-4f08-a4cb-4666aca721d3" alt="输入图片说明" />
-</p>
 
 ## 社区交流
 
